@@ -35,11 +35,11 @@ echo '<head>';
 echo '<title>$0ul Exploit</title>';
 echo '<meta charset="utf-8">';
 echo '<meta name="viewport" content="width=device-width,initial-scale=1,maximum-scale=1,user-scalable=no">';
-echo '<link rel="shortcut icon" href="anon.png" sizes="196x196"/>';
+echo '<link rel="shortcut icon" href="https://i.top4top.io/p_2250bq7ja0.png" sizes="196x196"/>';
 echo '<style>';
 echo '/*
 body{
-  background-image:url("hacking.gif");
+  background-image:url("");
 }*/';
 echo '#main_heading{
   text-align:center;
@@ -128,7 +128,7 @@ echo '</head>';
 echo '<body>';
 echo '<div class="container">';
 echo '<h2 id="main_heading">$0ul Exploit</h2>';
-echo '<img class="logo" src="soul.gif"/>';
+echo '<img class="logo" src="https://f.top4top.io/p_2191q2zkn0.gif"/>';
 echo '</div>';
 echo '<div class="login">';
 echo "<form action='$script_name' method='POST'>";
